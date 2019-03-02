@@ -8,3 +8,4 @@ moveRight = keyboard_check(ord("D"));
 
 //attacking
 light = mouse_check_button_released(mb_left);
+heavy = mouse_check_button_released(mb_right);

@@ -4,7 +4,9 @@ objList = ds_list_create();
 gravRadius = 480;					// num of pixels the radius of irs gravitationla field
 grav = 0.2;
 gravMax = 5;
-gravDir = 0;
 
-
+i = 0;
+objsInCircle = 0;
+size = 1;
+isDamaged = false;
 
